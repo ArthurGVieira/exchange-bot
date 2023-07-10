@@ -30,6 +30,7 @@ python main.py
 Pesquise pelo usuário no telegram @gv_exchange_bot ou pelo link t.me/gv_exchange_bot. Digite o comando "/start" e
 escolha uma das moedas disponíveis para verificar sua cotação atual com base no real brasileiro.
 
+
 ![exemplo](screenshots/0.png "exemplo1")
 ![exemplo2](screenshots/1.png "exemplo2")
 
