@@ -30,6 +30,9 @@ python main.py
 Pesquise pelo usuário no telegram @gv_exchange_bot ou pelo link t.me/gv_exchange_bot. Digite o comando "/start" e
 escolha uma das moedas disponíveis para verificar sua cotação atual com base no real brasileiro.
 
+![exemplo](screenshots/0.png "exemplo1")
+![exemplo2](screenshots/1.png "exemplo2")
+
 ## Resumo
 O bot é definido como um objeto no python e opera com as funções da biblioteca pyTelegramBotAPI implementadas nos
 métodos da classe. 
